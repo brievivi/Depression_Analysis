@@ -142,7 +142,7 @@ FROM Persons;
 SELECT COUNT(*) FROM Persons
 WHERE gained_asset >36695169.9
 AND Depressed = 1;
-/*depressed people's biggest factors
+/*depressed persons biggest factors
 gained and saved assets are below the median 
 family size is larger than 6 people
 */
