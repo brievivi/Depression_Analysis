@@ -136,5 +136,5 @@ SELECT ROUND(AVG(Gained_Asset), 2)
 FROM Persons;
 SELECT COUNT(*) FROM Persons
 WHERE gained_asset <33634477.74
-AND Depressed = 0;
+AND Depressed = 1;
 /*174/842*/
